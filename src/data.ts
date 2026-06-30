@@ -195,7 +195,7 @@ export const skillsData: Skill[] = [
 
 export const projectsData: Project[] = [
   {
-    id: 'Alnora-GIS-Viewer',
+    id: 'Almora-GIS-Viewer',
     title: 'District Almora UK GIS Portal',
     category: 'National Geospatial Portal',
     period: 'Apr 26 – July 19',

@@ -56,7 +56,7 @@ If you want to run this portfolio locally (e.g., to customize or contribute):
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-portfolio-repo.git
+git clone https://github.com/RawatGitLab/React-Portfolio.git
 
 # 2. Navigate to the project folder
 cd your-portfolio-repo

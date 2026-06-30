@@ -195,6 +195,39 @@ export const skillsData: Skill[] = [
 
 export const projectsData: Project[] = [
   {
+    id: 'Alnora-GIS-Viewer',
+    title: 'District Almora UK GIS Portal',
+    category: 'National Geospatial Portal',
+    period: 'Apr 26 – July 19',
+    verified: true,
+    tags: [
+      'React-JS',
+      'Tailwind CSS',
+      'Leaflet',
+      'MongoDB',
+      'ArcGIS',
+      'QGIS',
+      'Google Earth',
+      'GitHub'
+    ],
+    description: 'Centralized, real-time geospatial data hub for District Almora Uttarakhand India planners with live Geo-Spatial data.',
+    demoUrl: 'https://district-almora-production.up.railway.app/',
+    githubUrl: 'https://github.com/RawatGitLab/District-Almora/',
+    details: {
+      overview: 'District Almora is a live, real-time Geographic Information System (GIS) visualization platform built specifically for district planners and administrators of Almora, Uttarakhand India',
+      keyFeatures: [
+        'Assembled a centralized catalog processing 50+ national spatial layers, slashing cross-agency lookup efforts by 20%.',
+        'Standardized spatial records profiles metadata, raising map coordinate query speeds by 25%.',
+        'Built 7+ distinct target modules (Administrative, Education, Health, Police, River, Nagar Nigam, Municipality).'
+      ],
+      technicalArchitecture: [
+        'Implemented GeoJSON data on open Leaflet canvas layouts.',
+        'Secured portal client views with Github- Actions user groups privileges.'
+      ],
+      roleAndImpact: 'Architected and deployed an integrated GIS web platform that modernized public service delivery, boosting operational efficiency in spatial data handling and citizen engagement by 20%.'
+    }
+  },
+  {
     id: 'springshed',
     title: 'Hydrological Assessment & Springshed Management',
     category: 'Geospatial Web App',

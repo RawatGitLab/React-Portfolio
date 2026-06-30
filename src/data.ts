@@ -9,7 +9,7 @@ export const statsData: Stat[] = [
   },
   {
     id: 'projects',
-    value: '15',
+    value: '16',
     label: 'Professional Projects',
     icon: 'terminal'
   },

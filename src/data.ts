@@ -198,7 +198,7 @@ export const projectsData: Project[] = [
     id: 'Almora-GIS-Viewer',
     title: 'District Almora UK GIS Portal',
     category: 'National Geospatial Portal',
-    period: 'Apr 26 – July 19',
+    period: 'Apr 26 – July 26',
     verified: true,
     tags: [
       'React-JS',

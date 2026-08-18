@@ -92,6 +92,7 @@ src/
 └── index.js
 Your actual structure may vary – adjust accordingly.
 
+```
 🔧 Customization & Extending
 Guestbook Backend – To make the guestbook persistent, connect it to a simple API (Node.js + MongoDB) or a Firebase/Firestore collection.
 
@@ -107,9 +108,9 @@ This project is open source under the MIT License. Feel free to use the code str
 🤝 Connect with Me
 Email: varunrawatmailbox2507@gmail.com
 
-LinkedIn: [Add your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/vr2507/
 
-GitHub: [Add your GitHub profile URL]
+GitHub: https://github.com/RawatGitLab
 
 Guestbook – Leave a message directly on the live site!
 

@@ -195,6 +195,38 @@ export const skillsData: Skill[] = [
 
 export const projectsData: Project[] = [
   {
+    id: 'Uttarakhand-GIS-Viewer',
+    title: 'Uttarakhand GIS Portal',
+    category: 'National Geospatial Portal',
+    period: 'July 26 – Present',
+    verified: true,
+    tags: [
+      'React-JS',
+      'Tailwind CSS',
+      'Leaflet',
+      'MongoDB',
+      'ArcGIS',
+      'QGIS',
+      'Google Earth',
+      'GitHub'
+    ],
+    description: 'Centralized, real-time geospatial data hub for District Almora Uttarakhand India planners with live Geo-Spatial data.',
+    demoUrl: 'https://uttarakhand-geo-portal.onrender.com/', 
+    githubUrl:  'https://github.com/RawatGitLab/Uttarakhand-Geo-Portal',
+    details: {
+      overview: 'Uttarakhand Geoportal is a live, real-time Geographic Information System (GIS) visualization platform built specifically for district planners and administrators of all 13 Districts of Uttarakhand India',
+      keyFeatures: ['Engineered a unified geospatial dashboard consolidating 13 independently-hosted district GIS applications and 2011 Census datasets, reducing multi-platform navigation efforts by 80%.',
+                    'Implemented interactive choropleth mapping and district boundary visualizations using Leaflet, improving comparative spatial data analysis for population, area, and literacy metrics.',
+                    'Developed 4+ core functional modules (Interactive Mapping, District Directory, Comparative Report Builder, and Live GIS Embed) with CSV/PDF export capabilities and light/dark theme support.'
+      ],
+      technicalArchitecture: [
+        'Implemented GeoJSON data on open Leaflet canvas layouts.',
+        'Secured portal client views with Github- Actions user groups privileges.'
+      ],
+      roleAndImpact: 'Architected and deployed an integrated GIS web platform that modernized public service delivery, boosting operational efficiency in spatial data handling and citizen engagement by 20%.'
+    }
+  },
+  {
     id: 'Almora-GIS-Viewer',
     title: 'District Almora UK GIS Portal',
     category: 'National Geospatial Portal',
